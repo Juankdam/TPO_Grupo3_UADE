@@ -1,1 +1,5 @@
-print ("HELLO")
+''' Plataforma de analisis de Datos de Ventas:
+Desarrollar una plataforma que lea datos de ventas desde archivos CVS y JSON. Utilizar matrices para representar datos de ventas,
+listas avanzadas y diccionarios para analisis y reportes. Implementar manejo de excepciones y recursividad para calculos avanzados.'''
+
+
